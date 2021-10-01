@@ -1,12 +1,14 @@
-# noteli
+![Slide 16_9 - 8](https://user-images.githubusercontent.com/63385587/135632243-59615f06-5d6b-4819-be5d-f3d9b2aeaa8d.png)
 
-A CLI based Notes App built using TypeScript, MongoDB and Auth0.
+<div align="center">
+<a href="https://oclif.io" target="_blank"><img src="https://img.shields.io/badge/cli-oclif-brightgreen.svg" alt="oclif" /></a>
+<a href="https://npmjs.org/package/noteli" target="_blank"><img src="https://img.shields.io/npm/v/noteli.svg" alt="Version" /></a>
+<a href="https://npmjs.org/package/noteli" target="_blank"><img src="https://img.shields.io/npm/dw/noteli.svg" alt="Downloads/Week" /></a>
+<a href="https://github.com/sahilpabale/noteli/blob/master/package.json" target="_blank"><img src="https://img.shields.io/npm/l/noteli.svg" alt="License" /></a>
 
-[![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
-[![Version](https://img.shields.io/npm/v/noteli.svg)](https://npmjs.org/package/noteli)
-[![Downloads/week](https://img.shields.io/npm/dw/noteli.svg)](https://npmjs.org/package/noteli)
-[![License](https://img.shields.io/npm/l/noteli.svg)](https://github.com/sahilpabale/noteli/blob/master/package.json)
+</div>
 
+# Contents
 <!-- toc -->
 * [noteli](#noteli)
 * [Usage](#usage)
@@ -167,3 +169,5 @@ DESCRIPTION
 
 _See code: [src/commands/whoami.ts](https://github.com/sahilpabale/noteli/blob/v1.5.4/src/commands/whoami.ts)_
 <!-- commandsstop -->
+
+### Thats It, Enjoy `noteli`
