@@ -1,4 +1,4 @@
-![Slide 16_9 - 8](https://user-images.githubusercontent.com/63385587/135632243-59615f06-5d6b-4819-be5d-f3d9b2aeaa8d.png)
+![Banner](https://user-images.githubusercontent.com/63385587/135638876-40268882-77ac-42a0-ace5-74ff1b5ae2e6.png)
 
 <div align="center">
 <a href="https://oclif.io" target="_blank"><img src="https://img.shields.io/badge/cli-oclif-brightgreen.svg" alt="oclif" /></a>
